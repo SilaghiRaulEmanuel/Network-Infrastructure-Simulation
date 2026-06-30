@@ -9,6 +9,6 @@ This repository contains network simulations I created using Cisco Packet Tracer
 - Applied routing protocols to ensure efficient data pathing.
 
 ## Note:
-I have included a few screenshots in the `/screenshots` folder showing the final network topology and the connectivity tests (ping results) so you can get a good overview without needing to open the `.pkt` file directly.
+I have included a screenshot showing the final network topology and the connectivity tests (ping results) so you can get a good overview without needing to open the `.pkt` file directly.
 
 To explore the simulations, you will need Cisco Packet Tracer installed on your machine.
